@@ -26,6 +26,8 @@ A reusable process for turning a traditional README into research-backed, multim
   - **Audio/Video**: narrated summaries, walkthroughs, demo clips.
 - Embed or link these assets in the repo so users have both static docs and a rich, multimodal path.
 
+**[→ Examples using the opendatahub-io/maas-billing codebase and supporting documents](examples/)**
+
 ---
 
 ## Why This Matters

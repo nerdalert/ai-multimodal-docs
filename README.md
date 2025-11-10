@@ -2,7 +2,7 @@
 
 Example for rethinking how we document projects with the ability to generate multi-modal docs with Notebook LM.
 
-A reusable process for turning a traditional README into research-backed, multimodal documentation. The flow: take a project’s README, add supporting URLs for deep research (e.g., Gemini), synthesize findings, then feed that into Notebook LM to produce audio/video assets that augment the repository.
+A reusable process for turning a traditional README into research-backed, multimodal documentation. The flow: take a project’s README, add supporting URLs for deep research (e.g., Gemini), synthesize findings, then feed that into Notebook LM to produce audio/video assets that augment the repository. This saves the engineer/SME from having to create audio/video presentations as often. Its also much more efficient for keeping your documentation current. How many times have you created a presentation for a project and a month later it is already dated material? With this approach, you simply refresh the toolchain which takes just a few minutes and replace the existing content with the updated docs, mindmaps, audio and video files.
 
 ---
 
@@ -32,14 +32,10 @@ A reusable process for turning a traditional README into research-backed, multim
 
 ## Why This Matters
 
-- **Multi-modal UX**: Better entry points for visual and auditory learners; improved accessibility.
-- **Deeper context**: Explains why the project exists, how it fits, and trade-offs—faster onboarding.
-- **Discovery**: Surfaces references and ecosystem links that a README often omits.
+- **Save Time**: Most engineers have spent days or weeks total in their career recording and editing explanations of their project which is sourced from documentation. Here we automate the presentation with both audio and visual modalities.  
+- **Multi-modal UX**: Better entry points for visual and auditory learners; improved accessibility. Generally a project is only a text based readme until it matures due to resource constraints on emerging projects. Leverage AI tooling with the docs you generate or have an LLM generate to produce presentations takes ~10 minutes.
 - **Engagement**: Video/audio walkthroughs raise comprehension and retention.
 - **Docs as a product**: Signals that documentation is first-class, not an afterthought.
-- **Scalable template**: Repeatable across projects; standardizes a higher-quality onboarding experience.
-- **Open-source comms innovation**: Moves beyond static markdown toward guided learning.
-
 ---
 
 ## Benefits and Considerations
@@ -47,7 +43,6 @@ A reusable process for turning a traditional README into research-backed, multim
 **Benefits**
 - Faster ramp-up for users and contributors.
 - Clearer first impression and differentiation.
-- Better SEO/engagement via linked media and references.
 - Encourages stronger documentation hygiene.
 
 **Considerations**

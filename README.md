@@ -28,6 +28,8 @@ A reusable process for turning a traditional README into research-backed, multim
 
 **[→ Examples using the opendatahub-io/maas-billing codebase and supporting documents](examples/)**
 
+**[→ NotebookLM: Model-as-a-Service Architecture Deep Dive](https://notebooklm.google.com/notebook/0db74ec6-00b6-447b-82c6-4f7d653043d8) Access the shared NotebookLM directly and interact with the documentation or presentations via text or voice**
+
 ---
 
 ## Why This Matters
